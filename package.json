@@ -12,7 +12,10 @@
     },
     "files": [
         "*",
-        "**/**"
+        "**/**",
+        ".babelrc",
+        ".nvmrc",
+        "webpack.config.js"
     ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
