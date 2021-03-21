@@ -10,12 +10,6 @@
         "react": "^15.5.4",
         "webpack": "^4.43.0"
     },
-    "files": [
-        "package.json",
-        "webpack.config.js",
-        ".babelrc",
-        "src"
-    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "webpack --watch",
